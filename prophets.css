@@ -1,0 +1,14 @@
+section{
+    background-color: rgb(157, 175, 179);
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+
+h1, h2{
+    color: rgb(40, 49, 173);
+}
+
+h1{
+    text-align: center;
+}
