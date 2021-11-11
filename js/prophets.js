@@ -28,8 +28,6 @@ fetch(requestURL)
         card.appendChild(b_date);
         card.appendChild(b_place);
         card.appendChild(image)
-
-        // document.querySelector('div.cards').appendChild(card);
     }
   });
 
